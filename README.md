@@ -1,0 +1,2 @@
+# aws-s3-node-js
+ACCESSING AWS S3 FROM NODE JS
